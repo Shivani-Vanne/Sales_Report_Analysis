@@ -1,53 +1,45 @@
-Sales Report Analysis (Excel)
+# Sales Report Analysis (Excel)
 
-A beginner-friendly Sales Report project built in Excel using formulas, Pivot Tables, and visual charts. The file analyzes product-level sales, calculates profit and commission, and summarizes results in a clear visual format.
+A complete Sales Report Analysis built in Excel to calculate profit, commissions, and sales performance using real-world structured data.  
+This project uses automated formulas, Pivot Tables, and visual charts to summarize and analyze sales trends effectively.
 
-🔍 Project Overview
+---
 
-This Excel workbook processes and analyzes a small retail sales dataset. It includes:
+## 📌 Project Overview
 
-Store Cost, Sale Price, and Profit calculation
+The sales sheet contains detailed transaction-level data and automatically calculates:
 
-Commission logic:
+- Profit per product  
+- Commission based on value (10% for < ₹50, 20% for ≥ ₹50)  
+- Store cost vs sale price difference  
+- Sales performance by salesperson  
+- Total sales summary using Pivot Table  
 
-10% commission for items priced below ₹50
+A 3D Pie Chart is included to visually compare sales contributions of different salespersons.
 
-20% commission for items priced ₹50 and above
+---
 
-Monthly sales breakdown
+## 🔍 Key Features
 
-Sales summary by salesperson
+- **Automated formulas** for profit and commission calculation  
+- **Pivot Table summary** showing sales by salesperson  
+- **3D Pie Chart** for visual analysis  
+- **Clean, structured dataset** for easy understanding  
+- **Beginner-friendly Excel project**, great for analytics practice  
 
-Visual reports using Pivot Table and 3D Pie Chart
+---
 
-The project demonstrates core Excel analysis skills—formulas, automation, and visualization.
+## 📂 File Contents
 
-⭐ Key Features
+- `salesReport.xlsx` — Main file with dataset, formulas, Pivot Table, and chart   
 
-Automated formulas for Profit and Commission
+---
 
-Pivot Table summarizing total sales by salesperson
+## 🛠 Tools & Skills Used
 
-3D Pie Chart visualizing sales contribution
+- Microsoft Excel  
+- Pivot Tables  
+- IF formulas for commission logic  
+- Basic data cleaning  
+- Chart visualization  
 
-Clean, organized dataset for easy analysis
-
-Practical real-world style sales reporting
-
-📁 Files Included
-
-salesReport.xlsx — Full dataset, formulas, and visuals
-
-Pivot Table & 3D Pie Chart (Sheet2)
-
-README explaining project logic
-
-🛠 Tools Used
-
-Microsoft Excel
-
-Pivot Table
-
-Basic formulas (IF, %, multiplication, sum)
-
-Chart Visualization
